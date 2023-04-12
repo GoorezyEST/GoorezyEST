@@ -28,10 +28,3 @@ My name is Goorezy, I am an Argentinian developer.
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GoorezyEST&theme=dark&background=000000)](https://git.io/streak-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GoorezyEST&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### :book: Some Projects :
-<a href="https://dod-data-of-day.netlify.app/" target="_blank">Data of Day<a/> <br/>
-<a href="https://yaz-your-anime-zone.netlify.app/" target="_blank">Your Anime Zone<a/> <br/>
-<a href="https://hw-healthy-weight.netlify.app/" target="_blank">Healthy Weight<a/>
