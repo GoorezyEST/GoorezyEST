@@ -1,6 +1,10 @@
-### Welcome to my GitHub profile!
+### Bienvenido a mi perfil de GitHub!
 
-My name is Goorezy, I am an Argentinian developer.
+Mi nombre es Franco Espinosa, soy un desarrollador de software. Trato de aprovechar cada día para expandir mis conocimientos y enfrentar desafíos que ponen a prueba mis habilidades.
+
+Comencé a estudiar programacion en el año 2021, desde entonces he completado diferentes cursos en plataformas de renombre como Udemy o FreeCodeCamp, asi como también he desarrollado proyectos como un buscador de videojuegos gratuitos, mi blog de programación y tecnología, entre otros.
+
+Soy oriundo de Argentina, más específicamente de la ciudad de Mar del Plata, actualmente tengo 21 años y estoy en la búsqueda de mi primer experiencia laboral. Mientras espero que esta oportunidad llegue, me encuentro trabajando con un compañero en proyectos Freelance para poder expandir mi habilidad profesional en el rubro.
 
 ---
 
