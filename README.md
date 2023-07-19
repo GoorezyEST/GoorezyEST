@@ -9,7 +9,7 @@
 - :star: Fullstack web developer
 - :sparkles: Currently working as freelancer
 
-### GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/GoorezyEST">
@@ -17,3 +17,9 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GoorezyEST&layout=compact&langs_count=8&theme=dracula"/>
 </a>
 </p>
+
+## Relevant work
+
+<a href="https://github.com/GoorezyEST/Portafolio-2.0">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GoorezyEST&repo=Portafolio-2.0&theme=dracula" />
+</a>
