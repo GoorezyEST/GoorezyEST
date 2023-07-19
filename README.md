@@ -21,3 +21,6 @@
 <a href="https://github.com/GoorezyEST/Portafolio-2.0">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GoorezyEST&repo=Portafolio-2.0&theme=dracula" />
 </a>
+<a href="https://github.com/GoorezyEST/Portafolio-2.0">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GoorezyEST&repo=PC-F2P&theme=dracula" />
+</a>
