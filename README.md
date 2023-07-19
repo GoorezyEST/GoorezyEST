@@ -1,7 +1,7 @@
 <div align="center">
-<h1 align="center">Hey, I'm Goorezy 👋</h1>
+<h1 align="center">Welcome to my profile 👋</h1>
 </div>
-<img src="https://i.imgur.com/pTmOFGu.png">
+<img src="https://i.imgur.com/YtDgqsJ.png">
 
 ## About me
 
