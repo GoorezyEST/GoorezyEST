@@ -6,7 +6,7 @@
 ## About me
 
 - :earth_americas: Argentina
-- :star: Fullstack web developer
+- :star: Web developer
 - :sparkles: Currently working as freelancer
 
 ### GitHub Analytics
