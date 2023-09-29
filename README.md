@@ -9,6 +9,8 @@
 - :star: Web developer
 - :sparkles: Currently working as freelancer
 
+- :fire: My portfolio: https://franco-espinosa-portafolio.vercel.app/
+
 ### GitHub Analytics
 
 <a href="https://github.com/GoorezyEST">
