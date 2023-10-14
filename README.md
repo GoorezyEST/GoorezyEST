@@ -5,7 +5,7 @@
 
 ## About me
 
-- :earth_americas: Argentina
+- :earth_americas: Mar del Plata, Buenos Aires, Argentina 
 - :star: Web developer
 - :sparkles: Currently working as freelancer
 
