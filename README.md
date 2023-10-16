@@ -5,9 +5,9 @@
 
 ## About me
 
-- :earth_americas: Mar del Plata, Buenos Aires, Argentina 
-- :star: Web developer
-- :sparkles: Currently working as freelancer
+- :earth_americas: Mar del Plata, Buenos Aires, Argentina.
+- :star: Web developer.
+- :sparkles: Currently working as freelancer.
 
 - :fire: My portfolio: https://franco-espinosa-portafolio.vercel.app/
 
