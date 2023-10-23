@@ -17,5 +17,5 @@
   <img src="https://streak-stats.demolab.com?user=GoorezyEST&theme=dracula" alt="GitHub Streak" />
 </a>
 
-#### Check my recent work :point_down:
+#### Recent work :point_down:
 
