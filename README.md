@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Welcome to my profile 👋</h1>
 </div>
-<img src="https://i.imgur.com/YtDgqsJ.png">
+<img src="https://i.imgur.com/QbFSUe3.png">
 
 ## About me
 
@@ -14,7 +14,7 @@
 ### GitHub Analytics
 
 <a href="https://github.com/GoorezyEST">
-  <img src="https://streak-stats.demolab.com?user=GoorezyEST&theme=dracula" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=&theme=midnight-purple&hide_border=true&border_radius=8&locale=es" alt="GitHub Streak" />
 </a>
 
 #### Check my recent work :point_down:
