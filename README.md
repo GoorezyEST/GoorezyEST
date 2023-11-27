@@ -14,9 +14,8 @@
 ### GitHub Analytics
 
 <a href="https://github.com/GoorezyEST">
-  <img src="https://streak-stats.demolab.com?user=GoorezyEST&theme=dracula" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=GoorezyEST&theme=midnight-purple" alt="GitHub Streak" />
 </a>
-[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=midnight-purple&hide_border=true&border_radius=8&locale=es)](https://git.io/streak-stats)
 
 #### Check my recent work :point_down:
 
