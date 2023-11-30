@@ -13,9 +13,7 @@
 
 ### GitHub Analytics
 
-<a href="https://github.com/GoorezyEST">
-  <img src="https://streak-stats.demolab.com?user=GoorezyEST&theme=midnight-purple" />
-</a>
+![GoorezyEST's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GoorezyEST&theme=midnight-purple&hide_border=true)
 
 #### My recent work :point_down:
 
