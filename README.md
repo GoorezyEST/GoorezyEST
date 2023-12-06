@@ -1,6 +1,7 @@
 <div align="center">
 <h1 align="center">Welcome to my profile 👋</h1>
 </div>
+<img src="https://i.imgur.com/A5qiXnj.png" title="banner" />
 
 ## About me
 
@@ -8,11 +9,11 @@
 - :star: Web developer.
 - :sparkles: Currently working as freelancer.
 
-- :fire: My portfolio: https://franco-espinosa-portafolio.vercel.app/
+My portfolio: https://franco-espinosa-portafolio.vercel.app/
 
 ### GitHub Analytics
 
-![GoorezyEST's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GoorezyEST&theme=midnight-purple&hide_border=true)
+![GoorezyEST's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GoorezyEST&theme=black-ice&hide_border=true)
 
 #### My recent work :point_down:
 
