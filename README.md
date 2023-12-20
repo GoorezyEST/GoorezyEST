@@ -15,5 +15,5 @@ My portfolio: https://franco-espinosa-portafolio.vercel.app/
 
 ![GoorezyEST's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GoorezyEST&theme=black-ice&hide_border=true)
 
-#### My recent work :point_down:
+#### My featured work :point_down:
 
